@@ -27,6 +27,7 @@ jobs:
 
       - name: Packaging
         run: |
+          cp LICENSE pkgbuild/LICENSE
           chmod +x packwiz
           cd pkgbuild
           ../packwiz refresh
