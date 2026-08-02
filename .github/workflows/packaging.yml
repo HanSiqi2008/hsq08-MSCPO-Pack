@@ -27,6 +27,7 @@ jobs:
 
       - name: Packaging
         run: |
+          chmod +x packwiz
           cd pkgbuild
           ../packwiz refresh
           ../packwiz mr export
