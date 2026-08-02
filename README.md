@@ -26,7 +26,7 @@
 这两个模组暂未被上传至 Modrinth 平台，因此我直接将其扔进了整合包源文件内进行直接打包。这两个模组的简介如下：
 
 - [SLCP](https://github.com/WiiRTwilight/SLCP): 一个用于下载配置文件，支持合并`servers.dat`文件内容的模组。
-- [DESE](https://github.com/ENA-QWQ/dustbin/tree/main/DESD): 一个用于阻止原版《我的世界》删除对其而言"非原版"的条目，用于保证`servers.dat`文件内容正常合并。(已获得二次分发授权)
+- [DESE](https://github.com/ENA-QWQ/dustbin/tree/main/DESD): 用于阻止原版《我的世界》删除对其而言"非原版"的服务器列表条目，用于保证`servers.dat`文件内容正常合并。(已获得二次分发授权)
 
 ### 许可协议
 
