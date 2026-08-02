@@ -1,0 +1,16 @@
+[
+    {
+        "LICENSE": {
+            "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+            "output": "./config/slcp",
+            "isServerDat": false
+        }
+    },
+    {
+        "serverlist": {
+            "url": "https://api.xiaofengqwq.com/StaticResources/Mscpo/servers.dat",
+            "output": "./",
+            "isServerDat": true
+        }
+    }
+]

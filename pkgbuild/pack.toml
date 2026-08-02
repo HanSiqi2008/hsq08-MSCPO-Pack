@@ -1,0 +1,13 @@
+name = "MSCPO Unified Pack"
+author = "Twilight"
+version = "1.21.11-Enigma"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "59013f0ac5456c1c007193d9dc68d2d9952db38d2f70a9057fa8329532dcb92b"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.11"

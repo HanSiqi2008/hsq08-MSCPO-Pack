@@ -1,0 +1,13 @@
+name = "ReplayMod Audio Render"
+filename = "replaymodaudiorender-0.1.0+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JNgb4oIM/versions/Ercr3DA1/replaymodaudiorender-0.1.0%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "ed42a781e99f76d7472bbe6b4263341795a18c71c8d172732742ddbfbfb2bcb91ca79feccc8caed177d412738001c1e660b8fb52166c2ed04e5e5634c0d4e1b1"
+
+[update]
+[update.modrinth]
+mod-id = "JNgb4oIM"
+version = "Ercr3DA1"

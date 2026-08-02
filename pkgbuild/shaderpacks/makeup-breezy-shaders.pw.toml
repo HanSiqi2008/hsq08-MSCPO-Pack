@@ -1,0 +1,13 @@
+name = "MakeUp - Breezy"
+filename = "MakeUp-Breezy-1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZsT2QmUU/versions/TWg7NH7p/MakeUp-Breezy-1.0.1.zip"
+hash-format = "sha512"
+hash = "1707e0c9fb290386bae18758c609b2a19923ce4f0130baf7f8cadf106bba320a59a51f481f2a881e88f613e58d70e68cef3cde031f0488a16cf31dc90744d480"
+
+[update]
+[update.modrinth]
+mod-id = "ZsT2QmUU"
+version = "TWg7NH7p"
