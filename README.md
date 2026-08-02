@@ -17,7 +17,13 @@
 
 我已检查各个整合包内模组采用的许可声明，均可包含在整合包内用于二次分发或已被许可包含在内。
 
+### 整合包使用什么工具打包
+
+[packwiz](https://github.com/packwiz/packwiz)，仓库内名叫`packwiz`和`packwiz.exe`的两个可执行文件均是该软件。
+
 ### 整合包中独立出现的两个 .jar 文件
+
+这两个模组暂未被上传至 Modrinth 平台，因此我直接将其扔进了整合包源文件内进行直接打包。这两个模组的简介如下：
 
 - [SLCP](https://github.com/WiiRTwilight/SLCP): 一个用于下载配置文件，支持合并`servers.dat`文件内容的模组。
 - [DESE](https://github.com/ENA-QWQ/dustbin/tree/main/DESD): 一个用于阻止原版《我的世界》删除对其而言"非原版"的条目，用于保证`servers.dat`文件内容正常合并。(已获得二次分发授权)
