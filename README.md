@@ -30,4 +30,4 @@
 
 ### 许可协议
 
-[CC BY-NC-SA 4.0]()
+[CC BY-NC-SA 4.0](https://github.com/HanSiqi2008/hsq08-MSCPO-Pack/blob/main/LICENSE)
